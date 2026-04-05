@@ -59,19 +59,6 @@ This is Machine Learning project where I built a simple model to predict whether
 * Plotted Training Loss vs Validation Loss
 * Observed smooth convergence
 
----
-
-## How to Run
-
-1. Download the notebook
-2. Install required libraries:
-
-   ```
-   pip install pandas numpy matplotlib scikit-learn tensorflow
-   ```
-3. Run the notebook step by step
-
----
 
 ## Key Learnings
 
